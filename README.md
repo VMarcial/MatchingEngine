@@ -2,6 +2,8 @@
  
  O programa realiza o match entre ordens de compra e venda de um único ativo. O programa tem preferencia primariamente por preços mais baixos
  e em segundo lugar por qual ordem chegou primeiro.
+ 
+ Para executar o programa basta executar o arquivo main.py. O programa foi desenvolvido e testado na versão 3.9.0 do Python.
 
 ```python
 
